@@ -17,6 +17,8 @@
   ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode%20Studio%20Code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007396.svg?&style=for-the-badge&logo=visualstudiocode%20Studio&logoColor=white)
+  ![MicroChip Studio](https://img.shields.io/badge/MicroChip%20Studio-D30707.svg?&style=for-the-badge&logo=visualstudiocode%20Studio&logoColor=white)
+  
   
 
   # :mailbox_with_mail: Contacts
