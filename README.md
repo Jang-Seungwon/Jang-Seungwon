@@ -3,6 +3,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJang-Seungwon%2FJang-Seungwon.git&count_bg=%233D66C8&title_bg=%231A2263&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddnjs8306)](https://solved.ac/tmddnjs8306/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tmddnjs8306&theme=warm)
 # 💪Skills
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
